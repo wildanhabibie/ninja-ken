@@ -502,17 +502,4 @@ footer .logo-text {
       width: 100%;
     }
 
-    .form {
-      margin: 50px;
-    }
-    
-    input[type="email"],
-    textarea {
-      width: 50%;
-    }
-    
-    button[type="submit"] {
-      width: 50%;
-    }
-
     }
